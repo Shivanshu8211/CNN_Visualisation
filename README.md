@@ -18,4 +18,4 @@ Explore the inner workings of Convolutional Neural Networks (CNNs) through a com
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Shivanshu8211/CNN_Visualisation.git
